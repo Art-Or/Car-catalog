@@ -1,0 +1,34 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "price": 24970,
+      "image": "/toyota.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "price": 22545,
+      "image": "/honda.jpg"
+    },
+    {
+      "name": "BMW",
+      "price": "50000",
+      "image": "/bmw.jpg",
+      "id": 3
+    },
+    {
+      "name": "Jiga",
+      "price": "99",
+      "image": "/jiga.jpg",
+      "id": 4
+    },
+    {
+      "name": "Art",
+      "price": "456",
+      "image": "gdgfdfgd",
+      "id": 5
+    }
+  ]
+}
